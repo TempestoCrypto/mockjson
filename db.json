@@ -2,24 +2,23 @@
   "tokens": [
   {
     "id": 0,
-    "description": "A powerful granade that blinds enemies nearby for a short period of time",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://www.seekpng.com/png/detail/21-218274_grenade-granada-pubg-game-jogo-pubg-grenade-png.png",
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
     "name": "Flash Granade"
   },
   {
     "id": 1,
-    "description": "My NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 1"
+    "name": "Stun Granade"
   },
   {
     "id": 2,
-    "description": "My NFT",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 2"
+    "name": "Smoke Granade"
+  },
+  {
+    "id": 3,
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "Explosive Granade"
   }
 ]
 }
